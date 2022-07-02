@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,44 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Realistic Shaders [16 16]",
-        "role": "This shaders pack is the perfect addition to make the game look a lot more realistic and alive. One of the really cool features make it look as if wind was blowing in the grass and leaves causing them to move. The shadows are heavily improved which make them look more realistic and as you will see in the images further down it has a great impact on the graphics.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/tigapuluhdua.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/Shaders Mcpe 0.12.1 (1).mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhtiga_desc.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/32/enampuluhempat_desc.png"
-    },
-    {
-        "name": "Winter HD (1.14+)",
-        "role": "This is a shaders which adds winter season with high definition of everything. Suitable for your map, and it is working smoothly in every low spec device. The size is just 2 MB. Interested? Feel free to try it out!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/tujuhpuluhsembilan_desc.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/WinterHD.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/empatpuluh.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/40/delapanpuluh_desc.png"
-    },
-    {
-        "name": "Night Vision Pack (Shader)",
-        "role": "Forget about the torches. This shader pack pretty much removes darkness from the game and it doesn�t seem to affect other parts of the game in any way. This pack is suitable for anyone who want to be out exploring during the night or go on an adventure underground to explore caves. Everything will look the same except for the darkness which will be gone.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/empatpuluhtiga.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/Night Vision Pack 1.0.3.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhenam_desc.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/43/delapanpuluhlima_desc.png"
-    },
-    {
-        "name": "SEUS PE Shader (Medium)",
-        "role": "This is to date the most realistic shaders pack for Minecraft PE. The light of the sun and moon shimmers beautifully when reflected on the water. Shadows have been massively improved and so have the sky and the Nether. The hype for this is real and you should definitely give it a try if you want to experience a more realistic version of Minecraft. Creator: Gabriel Paixão",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/3.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/seusstandard.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/2.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/46/1.jpg"
-    },
-    {
-        "name": "Ultra Source Reload Shader (Windows 10)",
-        "role": "Source Reload is a highly realistic shader pack for Windows 10 Edition. Some of the included features are massively improved clouds, waving plants and wavy water. It's definitely one of the best shader packs and currently it's only available for Windows 10 users. Even though it's a fairly new pack it includes most features one needs!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/3.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/UltraSource Reload Shader 1.2 Ultra W10.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/2.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/47/1.jpg"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
